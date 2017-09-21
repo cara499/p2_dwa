@@ -1,0 +1,19 @@
+body {
+    padding:30px;
+}
+
+fieldset { 
+    display: block;
+    border: none;
+}
+
+label, legend {
+    display:block;
+    margin-top:20px;
+    margin-bottom:0;
+    border: none;
+}
+
+input[type='checkbox'], input[type='radio'] {
+    display:inline;
+}
